@@ -1,0 +1,23 @@
+1415152219
+s:1029:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/reviewing-doug-kasss-surprises-for-2013/?utm_source=rss&utm_medium=rss&utm_campaign=reviewing-doug-kasss-surprises-for-2013">Reviewing Doug Kass’s Surprises for 2013</a></div>
+      <p>
+        December 11, 2013 | <a href="http://blog.pundittracker.com/?tag=Finance">FINANCE</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/reviewing-doug-kasss-15-surprises-for-2012/?utm_source=rss&utm_medium=rss&utm_campaign=reviewing-doug-kasss-15-surprises-for-2012">Reviewing Doug Kass’s 15 Surprises for 2012</a></div>
+      <p>
+        December 11, 2012 | <a href="http://blog.pundittracker.com/?tag=Finance">FINANCE</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

@@ -1,0 +1,449 @@
+[25-Sep-2012 07:19:45 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:19:45 UTC] PHP Fatal error:  Class 'CssMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/CssMinFilter.php on line 32
+[25-Sep-2012 07:19:45 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:19:46 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:25:58 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:25:58 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:25:58 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[25-Sep-2012 07:26:06 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:26:06 UTC] PHP Fatal error:  Class 'CssMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/CssMinFilter.php on line 32
+[25-Sep-2012 07:26:06 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:26:06 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:26:12 UTC] PHP Fatal error:  Class 'CssMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/CssMinFilter.php on line 32
+[25-Sep-2012 07:26:12 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:26:12 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:26:12 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:27:11 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:27:11 UTC] PHP Fatal error:  Class 'CssMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/CssMinFilter.php on line 32
+[25-Sep-2012 07:27:11 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:27:11 UTC] PHP Fatal error:  Class 'JsMin' not found in /home/pundittr/public_html/app/Plugin/AssetCompress/Lib/Filter/JsMinFilter.php on line 32
+[25-Sep-2012 07:41:03 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:03 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:03 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include(/home/pundittr/public_html/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[25-Sep-2012 07:41:04 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/pundittr/public_html/app/Config/core.php' for inclusion (include_path='/home/pundittr/public_html/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 72
+[25-Sep-2012 07:41:04 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[25-Sep-2012 07:41:04 UTC] PHP Fatal error:  Can't find application core file. Please create /home/pundittr/public_html/app/Config/core.php, and make sure it is readable by PHP. in /home/pundittr/public_html/lib/Cake/Core/Configure.php on line 73
+[12-Oct-2012 19:36:28 UTC] CSRF state token does not match one provided.
+[20-Oct-2012 22:47:55 UTC] CSRF state token does not match one provided.
+[30-Oct-2012 00:27:35 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:35 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:35 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:35 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:35 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:36 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:36 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 00:27:36 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 33
+[30-Oct-2012 02:42:12 UTC] CSRF state token does not match one provided.
+[09-Nov-2012 10:27:02 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[29-Nov-2012 23:18:45 UTC] CSRF state token does not match one provided.
+[30-Nov-2012 01:12:05 UTC] CSRF state token does not match one provided.
+[30-Nov-2012 20:38:30 UTC] CSRF state token does not match one provided.
+[06-Dec-2012 08:53:08 UTC] CSRF state token does not match one provided.
+[06-Dec-2012 19:11:32 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:07 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:09 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:12 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:12 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:13 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:14 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:15 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:15 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:15 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:20:19 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:21:09 UTC] CSRF state token does not match one provided.
+[19-Dec-2012 16:21:11 UTC] CSRF state token does not match one provided.
+[21-Dec-2012 13:29:42 UTC] CSRF state token does not match one provided.
+[21-Dec-2012 14:18:27 UTC] CSRF state token does not match one provided.
+[21-Dec-2012 14:18:36 UTC] CSRF state token does not match one provided.
+[02-Jan-2013 15:41:29 UTC] CSRF state token does not match one provided.
+[05-Feb-2013 13:44:34 UTC] CSRF state token does not match one provided.
+[05-Feb-2013 13:44:36 UTC] CSRF state token does not match one provided.
+[05-Feb-2013 16:02:22 UTC] CSRF state token does not match one provided.
+[05-Feb-2013 20:27:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[06-Feb-2013 18:15:19 UTC] CSRF state token does not match one provided.
+[06-Feb-2013 18:15:20 UTC] CSRF state token does not match one provided.
+[06-Feb-2013 22:09:31 UTC] CSRF state token does not match one provided.
+[09-Feb-2013 07:19:24 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 06:31:02 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 06:43:26 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 06:43:48 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:39 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:39 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:40 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:40 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:41 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:41 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:41 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:42 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:42 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:43 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:45 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:45 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:46 UTC] CSRF state token does not match one provided.
+[14-Feb-2013 09:22:46 UTC] CSRF state token does not match one provided.
+[16-Feb-2013 18:39:30 UTC] CSRF state token does not match one provided.
+[17-Feb-2013 17:21:13 UTC] CSRF state token does not match one provided.
+[17-Feb-2013 17:23:31 UTC] CSRF state token does not match one provided.
+[20-Feb-2013 00:28:25 UTC] CSRF state token does not match one provided.
+[26-Feb-2013 08:42:41 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[01-Mar-2013 21:04:08 UTC] CSRF state token does not match one provided.
+[11-Mar-2013 04:20:15 UTC] CSRF state token does not match one provided.
+[12-Mar-2013 18:18:19 UTC] CSRF state token does not match one provided.
+[14-Mar-2013 17:20:46 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[16-Mar-2013 22:35:13 UTC] CSRF state token does not match one provided.
+[20-Mar-2013 20:50:15 UTC] CSRF state token does not match one provided.
+[26-Mar-2013 17:09:44 UTC] CSRF state token does not match one provided.
+[26-Mar-2013 17:12:19 UTC] CSRF state token does not match one provided.
+[26-Mar-2013 23:00:15 UTC] CSRF state token does not match one provided.
+[29-Mar-2013 08:39:51 UTC] CSRF state token does not match one provided.
+[03-Apr-2013 04:54:15 UTC] CSRF state token does not match one provided.
+[03-Apr-2013 04:56:32 UTC] CSRF state token does not match one provided.
+[07-Apr-2013 10:56:48 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[07-Apr-2013 12:20:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[07-Apr-2013 14:21:03 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[09-Apr-2013 01:24:33 UTC] CSRF state token does not match one provided.
+[16-Apr-2013 07:32:45 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[17-Apr-2013 05:46:27 UTC] CSRF state token does not match one provided.
+[17-Apr-2013 05:47:12 UTC] CSRF state token does not match one provided.
+[17-Apr-2013 05:50:43 UTC] CSRF state token does not match one provided.
+[19-Apr-2013 22:54:52 UTC] CSRF state token does not match one provided.
+[19-Apr-2013 23:01:31 UTC] CSRF state token does not match one provided.
+[19-Apr-2013 23:02:02 UTC] CSRF state token does not match one provided.
+[21-Apr-2013 05:04:05 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[22-Apr-2013 19:31:01 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:31:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:31:28 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:31:29 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:31:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:31:43 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:32:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:34:25 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:35:13 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:35:36 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:36:09 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:36:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:36:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:36:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:11 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:26 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:31 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:34 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:36 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:40 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:37:54 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:38:03 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:38:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:38:31 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:28 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:43 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:39:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:42:32 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:51:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:51:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:51:52 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:51:56 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:52:30 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:52:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:53:12 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:53:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:53:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:10 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:17 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:18 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:54:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:56:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:56:10 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:56:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:56:26 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:57:12 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:58:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:21 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 19:59:36 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:01 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:12 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:17 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:00:27 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:01:29 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:01:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:01:58 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:02:07 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:02:12 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:05:27 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:09:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:10 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:13 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:18 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:10:43 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:11 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:14 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:17 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:21 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:11:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:13:01 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:23:50 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:23:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:24:00 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:24:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:24:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:25:25 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:25:54 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:30:03 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:31:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:32:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:33:10 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:35 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:34:47 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:35:50 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:36:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:37:40 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:38:02 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:38:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:38:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:38:24 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:38:57 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:35 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:37 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:41:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:36 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:42 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:42:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:47:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:49:02 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:49:07 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:49:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:49:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:51:02 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:52:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:53:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:54:06 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:54:53 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:55:06 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:55:11 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:55:13 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:55:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:56:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:56:17 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:56:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[22-Apr-2013 20:56:51 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_STRING or T_NAMESPACE or T_NS_SEPARATOR in /home/pundittr/public_html/app/View/Elements/Vertical/vertical_blog_post.ctp on line 12
+[23-Apr-2013 05:04:03 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[23-Apr-2013 05:04:06 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[23-Apr-2013 05:04:09 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:27 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:27 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:27 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 04:33:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 34
+[24-Apr-2013 06:00:29 UTC] CSRF state token does not match one provided.
+[24-Apr-2013 06:00:30 UTC] CSRF state token does not match one provided.
+[26-Apr-2013 15:53:36 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:36 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:37 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:38 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:38 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[26-Apr-2013 15:53:38 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:24 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:25 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:25 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[27-Apr-2013 07:01:26 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[30-Apr-2013 05:04:04 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[30-Apr-2013 05:04:07 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[30-Apr-2013 05:04:10 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 41
+[05-May-2013 17:44:35 UTC] CSRF state token does not match one provided.
+[05-May-2013 17:46:28 UTC] CSRF state token does not match one provided.
+[07-May-2013 05:04:03 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 45
+[11-May-2013 20:21:19 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 45
+[13-May-2013 15:35:36 UTC] CSRF state token does not match one provided.
+[30-May-2013 01:05:26 UTC] CSRF state token does not match one provided.
+[30-May-2013 01:05:57 UTC] CSRF state token does not match one provided.
+[01-Jun-2013 19:04:48 UTC] PHP Warning:  POST Content-Length of 27291316 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Jun-2013 19:04:51 UTC] PHP Warning:  POST Content-Length of 27291316 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Jun-2013 19:04:59 UTC] PHP Warning:  POST Content-Length of 27291316 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2013 19:05:22 UTC] CSRF state token does not match one provided.
+[05-Jun-2013 19:06:43 UTC] CSRF state token does not match one provided.
+[05-Jun-2013 20:22:21 UTC] CSRF state token does not match one provided.
+[26-Jun-2013 13:44:28 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 45
+[25-Jul-2013 19:21:57 UTC] CSRF state token does not match one provided.
+[29-Jul-2013 16:27:29 UTC] CSRF state token does not match one provided.
+[12-Aug-2013 21:03:46 UTC] PHP Fatal error:  Call to a member function script() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 45
+[19-Aug-2013 14:55:10 UTC] CSRF state token does not match one provided.
+[19-Aug-2013 16:08:18 UTC] CSRF state token does not match one provided.
+[19-Aug-2013 16:09:36 UTC] CSRF state token does not match one provided.
+[20-Aug-2013 03:53:40 UTC] CSRF state token does not match one provided.
+[20-Aug-2013 18:52:15 UTC] CSRF state token does not match one provided.
+[21-Aug-2013 05:16:00 UTC] PHP Fatal error:  Call to undefined function apache_get_modules() in Command line code on line 1
+[24-Aug-2013 16:16:11 UTC] CSRF state token does not match one provided.
+[24-Aug-2013 16:18:10 UTC] CSRF state token does not match one provided.
+[27-Aug-2013 23:24:29 UTC] CSRF state token does not match one provided.
+[30-Aug-2013 06:36:13 UTC] CSRF state token does not match one provided.
+[30-Aug-2013 06:39:23 UTC] CSRF state token does not match one provided.
+[20-Sep-2013 22:12:01 UTC] CSRF state token does not match one provided.
+[06-Oct-2013 11:01:21 UTC] CSRF state token does not match one provided.
+[10-Oct-2013 20:26:32 UTC] CSRF state token does not match one provided.
+[10-Oct-2013 20:27:16 UTC] CSRF state token does not match one provided.
+[10-Oct-2013 20:27:21 UTC] CSRF state token does not match one provided.
+[10-Oct-2013 20:27:42 UTC] CSRF state token does not match one provided.
+[13-Oct-2013 14:46:52 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[25-Oct-2013 16:02:18 UTC] CSRF state token does not match one provided.
+[25-Oct-2013 16:02:19 UTC] CSRF state token does not match one provided.
+[25-Oct-2013 16:02:19 UTC] CSRF state token does not match one provided.
+[09-Dec-2013 06:04:02 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[09-Dec-2013 06:04:03 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[09-Dec-2013 06:04:05 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[11-Dec-2013 06:04:02 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[12-Dec-2013 06:04:04 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[16-Dec-2013 06:04:01 UTC] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[16-Dec-2013 21:35:58 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[16-Dec-2013 21:35:59 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:02 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:02 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:03 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:03 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:03 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:03 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:03 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:04 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:05 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:06 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:06 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:06 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:06 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:06 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:07 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:08 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:08 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:08 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:08 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:09 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:09 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:31 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Dec-2013 09:26:35 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[06-Jan-2014 21:28:34 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[06-Jan-2014 21:28:43 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[06-Jan-2014 21:29:09 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[09-Jan-2014 07:42:21 America/Los_Angeles] CSRF state token does not match one provided.
+[09-Jan-2014 09:08:28 America/Los_Angeles] CSRF state token does not match one provided.
+[09-Jan-2014 09:12:28 America/Los_Angeles] CSRF state token does not match one provided.
+[10-Jan-2014 12:59:15 America/Los_Angeles] CSRF state token does not match one provided.
+[10-Jan-2014 13:00:05 America/Los_Angeles] CSRF state token does not match one provided.
+[25-Feb-2014 00:59:50 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[25-Feb-2014 00:59:51 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[10-Mar-2014 03:03:00 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[10-Mar-2014 03:03:31 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[10-Mar-2014 03:03:35 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[10-Mar-2014 03:03:40 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[11-Mar-2014 22:04:04 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[14-Mar-2014 22:04:04 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[14-Mar-2014 22:04:05 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[19-Mar-2014 07:45:26 America/Los_Angeles] CSRF state token does not match one provided.
+[19-Mar-2014 07:47:02 America/Los_Angeles] CSRF state token does not match one provided.
+[20-Mar-2014 08:02:24 America/Los_Angeles] CSRF state token does not match one provided.
+[24-Mar-2014 13:48:26 America/Los_Angeles] CSRF state token does not match one provided.
+[24-Mar-2014 13:52:31 America/Los_Angeles] CSRF state token does not match one provided.
+[06-Apr-2014 20:39:38 America/Los_Angeles] CSRF state token does not match one provided.
+[07-Apr-2014 08:14:07 America/Los_Angeles] CSRF state token does not match one provided.
+[07-Apr-2014 08:15:46 America/Los_Angeles] CSRF state token does not match one provided.
+[10-Apr-2014 06:59:21 America/Los_Angeles] CSRF state token does not match one provided.
+[10-Apr-2014 06:59:41 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:48:33 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:49:13 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:49:17 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:49:17 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:51:08 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:51:08 America/Los_Angeles] CSRF state token does not match one provided.
+[12-Apr-2014 06:51:54 America/Los_Angeles] CSRF state token does not match one provided.
+[14-Apr-2014 11:29:35 America/Los_Angeles] CSRF state token does not match one provided.
+[14-Apr-2014 11:30:18 America/Los_Angeles] CSRF state token does not match one provided.
+[22-Apr-2014 06:41:40 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Apr-2014 07:34:31 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Apr-2014 07:34:32 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46
+[22-Apr-2014 08:35:30 America/Los_Angeles] PHP Fatal error:  Call to a member function css() on a non-object in /home/pundittr/public_html/app/View/Layouts/default.ctp on line 46

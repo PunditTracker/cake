@@ -1,0 +1,29 @@
+1415151978
+s:1390:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/vote-worst-financial-prediction-of-2013/?utm_source=rss&utm_medium=rss&utm_campaign=vote-worst-financial-prediction-of-2013">Vote: Worst Financial Prediction of 2013</a></div>
+      <p>
+        December 22, 2013 | <a href="http://blog.pundittracker.com/?tag=Finance">FINANCE</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/did-byron-wien-do-better-in-2013/?utm_source=rss&utm_medium=rss&utm_campaign=did-byron-wien-do-better-in-2013">Did Byron (Wien) do Better in 2013?</a></div>
+      <p>
+        December 09, 2013 | <a href="http://blog.pundittracker.com/?tag=Finance">FINANCE</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/how-are-byron-wiens-2013-predictions-faring/?utm_source=rss&utm_medium=rss&utm_campaign=how-are-byron-wiens-2013-predictions-faring">How are Byron Wien’s 2013 Predictions Faring?</a></div>
+      <p>
+        July 08, 2013 | <a href="http://blog.pundittracker.com/?tag=Finance">FINANCE</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

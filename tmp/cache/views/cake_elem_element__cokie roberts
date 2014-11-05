@@ -1,0 +1,23 @@
+1415150782
+s:952:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/election-report-card/?utm_source=rss&utm_medium=rss&utm_campaign=election-report-card">Election Report Card</a></div>
+      <p>
+        November 08, 2012 | <a href="http://blog.pundittracker.com/?tag=Politics">POLITICS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/latest-election-predictions/?utm_source=rss&utm_medium=rss&utm_campaign=latest-election-predictions">Latest Election Predictions (Updated: Tuesday Morning)</a></div>
+      <p>
+        November 06, 2012 | <a href="http://blog.pundittracker.com/?tag=Politics">POLITICS</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

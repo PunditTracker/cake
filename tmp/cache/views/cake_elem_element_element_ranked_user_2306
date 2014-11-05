@@ -1,0 +1,45 @@
+1415204007
+s:1653:"<div class="block topUser sidebar">
+  <div class="title_row2">
+      <h1>User Ranking</h1>
+  </div>
+          <div class="title_row2 user_ranking_title show-tooltip" title="Rankings are based on users with at least 10 graded votes.">
+        <span class="big-font">
+          You're not ranked        </span>&nbsp;
+        <span class="small-font"> Learn Why</span>
+      </div>
+    
+  <ol class="featured_pundits_list profile_user_rankings">
+        <li>
+      <div class="fea_order" id="user1">1</div>
+      <div class="fea_img">
+        <img src="/img/person_img2.png" alt="" class="img4040" />      </div>
+      <div class="fea_txt">
+        <a href="/users/profile/1697">Bill Young</a>        <span>
+          $1.58Yield, 100% Hit Rate (10/10 Correct)        </span>
+      </div>
+    </li>
+        <li>
+      <div class="fea_order" id="user2">2</div>
+      <div class="fea_img">
+        <img src="/img/person_img2.png" alt="" class="img4040" />      </div>
+      <div class="fea_txt">
+        <a href="/users/profile/1731">Andy Moy</a>        <span>
+          $1.56Yield, 73% Hit Rate (11/15 Correct)        </span>
+      </div>
+    </li>
+        <li>
+      <div class="fea_order" id="user3">3</div>
+      <div class="fea_img">
+        <img src="/img/person_img2.png" alt="" class="img4040" />      </div>
+      <div class="fea_txt">
+        <a href="/users/profile/1097">Dale Rhines</a>        <span>
+          $1.51Yield, 83% Hit Rate (10/12 Correct)        </span>
+      </div>
+    </li>
+             
+  </ol>
+  <div class="improve-your-ranking">
+    <a href="/users/user_leaderboard">See Full User Leaderboard &gt;&gt;</a>  </div>
+</div>      
+";

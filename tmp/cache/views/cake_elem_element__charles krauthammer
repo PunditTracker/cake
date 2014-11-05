@@ -1,0 +1,29 @@
+1415153419
+s:1267:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/new-political-predictions/?utm_source=rss&utm_medium=rss&utm_campaign=new-political-predictions">New Political Predictions</a></div>
+      <p>
+        July 26, 2013 | <a href="http://blog.pundittracker.com/?tag=Politics">POLITICS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/election-report-card/?utm_source=rss&utm_medium=rss&utm_campaign=election-report-card">Election Report Card</a></div>
+      <p>
+        November 08, 2012 | <a href="http://blog.pundittracker.com/?tag=Politics">POLITICS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/ranking-the-political-pundits/?utm_source=rss&utm_medium=rss&utm_campaign=ranking-the-political-pundits">Ranking the Political Pundits</a></div>
+      <p>
+        October 31, 2012 | <a href="http://blog.pundittracker.com/?tag=Politics">POLITICS</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

@@ -1,0 +1,7 @@
+<?php
+$config = array(
+    'fbAppId'            => '443400875690269',
+    'fbAppSecret'        => 'e3f8490ebd5a23814ad9685403892d9f',    
+    'fbPermissionsArray' => array('email'),
+    'fbPermissionsScope' => 'email',
+);

@@ -1,0 +1,29 @@
+1415153255
+s:1367:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/nfl-season-finale-photo-finish/?utm_source=rss&utm_medium=rss&utm_campaign=nfl-season-finale-photo-finish">NFL Season Finale: Photo Finish</a></div>
+      <p>
+        January 03, 2013 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/nfl-week-16-katzowitz-making-a-push/?utm_source=rss&utm_medium=rss&utm_campaign=nfl-week-16-katzowitz-making-a-push">NFL Week 16: Katzowitz Making a Push</a></div>
+      <p>
+        December 28, 2012 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/nfl-week-15-mike-silver-continues-to-deliver/?utm_source=rss&utm_medium=rss&utm_campaign=nfl-week-15-mike-silver-continues-to-deliver">NFL Week 15: Mike Silver Continues to Deliver</a></div>
+      <p>
+        December 20, 2012 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

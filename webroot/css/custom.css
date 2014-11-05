@@ -1,0 +1,500 @@
+/* css to display selected page  */
+.table_row .table_pages span.on{ background:#fff; color:#666;}
+/* date picker input size*/
+
+.edit_form .small{width:127px; background: url("/img/ico_date.gif") no-repeat scroll 93% 15px transparent;}
+
+.pull-left{float:left;margin-right:10px;}
+
+/*.featured{float:right;margin: -90px 20px;}*/
+
+.vote_col{ float:left; width:200px; margin:10px 0px 0px 10px;}
+
+
+#flashMessage {
+   background: none repeat scroll 0 0 #3399CC;
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: 'Oswald',sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    margin-bottom: 18px;
+    padding: 6px 20px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+/* added css to display the asc/desc arrows */
+.table_box th a.asc{
+    background:#3399CC;
+    background-image:url('/img/ico_arrow2.png');
+    background-repeat:no-repeat;
+    background-position: 95% 50%;
+    margin-right: 0px;
+}
+.table_box th a.desc{
+    background:#3399CC;
+    background-image:url('/img/ico_arrow4.png');
+    background-repeat:no-repeat;
+    background-position: 95% 50%;
+    margin-right: 0px;
+}
+
+/* css for user edit form */
+/*.user_edit_form{ width:auto;}*/
+
+/* css used to display user view iframe */
+.div_heading{ float:left; height:auto; line-height:18px; padding:0 12px; font-size:10px; color:#aaa; font-weight:bold; margin-left:5px;}
+.div_content{width:300px; margin-left:150px;}
+.user_per_img {
+    float: right;
+    margin-right: 50px;
+    width: 64px;
+}
+
+/* css for edit user profile link */
+.shift-left{ margin-right: 5px;}
+
+/* css for change avatar uploader */
+.avatar-uploader{margin-top: 5px; margin-bottom: 5px; }
+
+/* css for taking div to next line */
+.shift-below{clear: both; margin-top:5px; }
+
+/* css to display grades of top user and pundits */
+.user_pundit_grade {
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    height: 40px;
+    margin-left: 4px;
+    text-align: center;
+    width: 55px;
+    padding-top: 5px;
+    line-height:35px;
+}
+
+/* css for facebook link placement */
+#UserFacebookLogin { margin-top: 8px;float:right}
+
+
+/* css for pagination link */
+span a{ color:#d6d6d6CCC; text-decoration:none;}
+
+
+/* css for edit user profile link */
+.shift-avatarlink{
+  background: none repeat scroll 0 0 #3399CC;
+  border: 0 none;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: 'Oswald',sans-serif;
+  font-size: 11px;
+  text-transform:uppercase;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  float:none;
+}
+
+
+/* css for cancel button */
+.remove-border{ border: 0 none; cursor: pointer; }
+.delete-border{
+  background: no-repeat scroll 10px 5px #CC0000;
+  border-radius: 6px 6px 6px 6px;
+  color: #FFFFFF;
+  float: left;
+  font-family: 'Oswald',sans-serif;
+  font-size: 11px;
+  height: 20px;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 99px;
+  border: 0 none;
+  cursor: pointer;
+  font-weight: bold;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.edit_btns .delete-border{font-weight:normal;}
+.delete-border:hover{
+  background: no-repeat scroll 10px 5px #000000;
+}
+
+/* css for giving height to textarea */
+.textarea-height{
+    display:block;
+    width:605px;
+    height:102px;
+    border:2px #d6d6d6 solid;
+    margin-bottom:15px;
+    padding:9px;
+    font-size:12px;
+    color:#333; font-family:"Helvetica", Arial, Helvetica, sans-serif;
+ }
+
+ .textarea-height:focus{
+    border: 2px solid #333333;
+ }
+
+ .imgRow {
+    margin-bottom: 10px;
+ }
+
+/* css for showing background with pale yellow color */
+.pale-yellow{ background: #39c; }
+
+ .table_box .noRecord {
+    border-right: 0px solid;
+ }
+
+
+.datepick-ctrl, .datepick-nav {
+    background-color: #3399CC;
+/*    padding: 6px;*/
+}
+
+.datepick a.datepick-disabled {
+    color: #fff;
+}
+
+.datepick-month-header select option {
+    color: #fff;
+    background-color: #3399CC;
+}
+
+.datepick-month td .datepick-today {
+    background-color: #39c;
+}
+
+.datepick-ctrl .datepick-cmd:hover {
+    background-color: #777777;
+}
+
+.datepick-month td .datepick-highlight {
+    background-color: #39c;
+    color: #fff;
+}
+
+.datepick-month td .datepick-selected {
+    background-color: #39c;
+    color:#fff;
+}
+
+
+/* css to shift uploader down */
+.uploader-down{ margin-top: 10px; }
+
+.table_box th.col1 {
+    width:10%;
+}
+
+.table_box th.col2 {
+    width:22%;
+}
+
+.table_box th.col3 {
+    width:8%;
+}
+
+/* Error messages */
+.error-message,
+#errorMessage,
+#errorMessageFirstName,
+#errorMessageLastName,
+#errorMessageEmail,
+#errorMessagePassword,
+#errorMessagePassword2 {
+  display: inline;
+  color: #D14;
+  font-style: italic;
+  font-weight: normal;
+  padding-left: 10px;
+}
+.message-success {
+  background: #5BB75B !important;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+/* Custom Uniform JS Overrides */
+#uniform-CallOutcomeId {width:139px !important;}
+#uniform-CallOutcomeId span {width:auto !important;}
+
+/* css to hide link underline on mouseover */
+.featured_pundits_list li .fea_txt a:hover{ text-decoration: none; }
+.vote_info_list li a:hover{ text-decoration: none; }
+
+.foot_links a:hover{ text-decoration: none; }
+
+.sidebox .sidebox_cont a.set-submit{ font-weight: normal; }
+.sidebox .sidebox_cont a.set-submit:hover{ text-decoration: none; }
+
+.img6464 {
+  height: 64px;
+  width : 64px;
+}
+
+.img4040 {
+  height: 40px;
+  width : 40px;
+}
+
+.table_box th.col-action {
+    width: 27%;
+}
+
+.table_box .noRecord:hover {
+    border-right: 0 solid;
+    background: #F1EEF0;
+}
+
+.imgRow .col1 {
+  float:left;
+  width:100px;
+}
+
+.separateDiv {
+  clear:both;
+}
+
+.imgRow {
+  height:80px;
+}
+
+.edit_btns a#closeIframe {
+  margin-right:20px;
+}
+
+.edit_btns {
+  top:0px;
+}
+
+/* css for div used before the flash message */
+.beforeFlashMessageDiv{ height:30px; }
+
+/* css for category add button */
+.category_add{ padding-top:0px; }
+
+/* Mozilla/Firefox Hacks - NEEDS TO BE AT BOTTOM OF THIS FILE */
+@-moz-document url-prefix() {
+  .vote_for_box .input_vote_now{padding-bottom:3px;}
+  .btn span{line-height:19px;}
+  .btn_submit{line-height:29px;}
+  .edit_btns .btn_cancel,.edit_btns .input_submit{padding-bottom:3px;top:none;}
+
+  .user_pundit_grade{line-height:39px;}
+
+  .btn_vote_now,.btn_closed,.btn_approve,.btn_deny,.btn_edit{line-height:18px;}
+
+  .person_grade .per_grade{line-height:72px;}
+    .person_grade .per_grade sup{top:5px;}
+  .featured_pundits_list li .fea_grade{line-height:39px;}
+    .featured_pundits_list li .fea_grade sup{top:5px;}
+}
+
+.edit_form .input_txt_small {
+    border: 2px solid #D6D6D6;
+    color: #333333;
+    display: block;
+    font-family: "Helvetica",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    height: 42px;
+    margin-bottom: 15px;
+    padding: 0 9px;
+    width: 127px;
+    text-align: right;
+}
+
+.vote_for_box .vote_for_title {
+  height:32px;
+}
+
+.vote_for_box {
+  height:270px;
+}
+
+.person_grade .per_grade {font-size: 32px;}
+
+.featured_pundits_list li .fea_grade {font-size: 22px;}
+
+
+#ajaxBusy {
+  display:none;
+  position: fixed;
+  z-index:999999;
+  height:99%;
+  width:99%;
+  background: url(/img/loading-icon-trans.gif) no-repeat 50% 50%;
+}
+
+.vote_outcome_box {
+  height: 47px;
+  padding-top: 8px;
+}
+
+.vote_info_list li span {
+  width: 55px;
+}
+
+.noBold {
+  font-weight:normal;
+}
+
+a.btn_deny {
+  padding:5px;
+  float:right;
+  background : url("/img/ico_close.png") no-repeat scroll 10px 8px #CC0000;
+}
+
+tr td.preFirst {
+  padding-right:10px;
+}
+
+.person_grade .gradeBox {
+  background-color:#707070;
+  color:#E0E0E0;
+}
+
+sup {
+  margin: 6px 0 0 -8px;
+}
+
+.featured_pundits_list li .gradeBox {
+  background-color:#707070;
+  color:#E0E0E0;
+}
+
+.horizontalAd {
+  padding-bottom:19px;
+  margin-bottom:19px;
+}
+
+.asteriskDef,.asteriskFooter{
+  padding:10px;
+  /*position:absolute;*/
+  font-style:italic;
+  color:#999;
+  font-size:10px;
+}
+.asteriskDef {
+  padding:10px;
+  width:620px;
+  margin:0px;
+  font-style:italic;
+  color:#999;
+}
+
+.asteriskFooter {
+  /*margin-top:-30px;*/
+  padding: 10px;
+}
+
+.gradeText {
+  color : #bbb;
+}
+
+
+a.btn_small{
+  width:60px;
+  height:20px;
+  padding:0px;
+  font-size:10px;
+  line-height: 2;
+}
+
+
+#shareFacebook .userPunditResult {
+  width:655px;
+  float:left;
+}
+#shareFacebook .comparison {
+  background-color:#fff;
+  padding: 10px;
+}
+#shareFacebook .comparison .heading{
+  padding: 10px;
+  text-align: center;
+}
+#shareFacebook .comparison .box {
+  min-height: 200px;
+  padding: 10px;
+  width: 100%;
+}
+#shareFacebook .comparison .box img {
+  float:left;
+}
+#shareFacebook .comparison .punditImg {
+  min-height:90px;
+  width: 470px;
+}
+#shareFacebook .comparison .userImg {
+  float: left;
+  margin: 10px 0;
+  min-height: 90px;
+  width: 470px;
+}
+#shareFacebook .comparison .centerSign { min-height:20px;width: 470px;}
+#shareFacebook .comparison .outcome {
+  border: 10px solid #F1EEF0;
+  float: right;
+  font-size: 15px;
+  margin: -10px 10px 0 0;
+  min-height: 200px;
+  padding: 0 10px;
+  text-align: center;
+}
+#shareFacebook .nameBox, #shareFacebook .userTalk {
+  margin:5px 0px 0px 80px;
+}
+#shareFacebook .userPunditResult .resultBox {
+  border: 10px solid;
+  padding: 20px;
+  background-color: #FFFFFF;
+  margin-bottom: 20px;
+}
+#shareFacebook hr {color:#F1EEF0;}
+#shareFacebook .userPunditResult .userStatus {
+  color: #3399CC;
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+}
+#shareFacebook .userPunditResult .icon-ok {color:green;}
+#shareFacebook .userPunditResult .icon-remove {color:red;}
+#shareFacebook .right-panel {
+  float: right;
+  width: 300px;
+}
+#shareFacebook .comparison .outcome #top, .comparison .outcome #bottom {
+  font-size: 40px;
+  height: 70px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#shareFacebook .userVsPundit{float:left;}
+
+.voteToolTip {
+    left:50%;
+    position:absolute;
+    margin-left:-72px;
+    width:144px;
+    overflow:visible;
+}
+
+.ranking {text-indent: 10px;}
+
+.blog .block {margin-top:20px;float:left;clear:both;}
+
+.sidebar .topUser {margin:22px 0 22px 0;}
+
+.sidebar .block .user_pundit_grade {right: 10px;}
+

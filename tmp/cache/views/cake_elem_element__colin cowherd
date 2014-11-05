@@ -1,0 +1,29 @@
+1415150906
+s:1398:"<div class="block side_block">
+  <div class="title_row2">
+    <h1>recent blog posts</h1>
+    <a href="http://blog.pundittracker.com" class="btn"><span>view all</span></a>
+  </div>
+
+  <ul class="recent_posts_list">
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/march-madness-2013-final-bracket-rankings/?utm_source=rss&utm_medium=rss&utm_campaign=march-madness-2013-final-bracket-rankings">March Madness 2013: Final Bracket Rankings</a></div>
+      <p>
+        April 09, 2013 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/march-madness-which-pundit-had-the-opening-weekend-bracket/?utm_source=rss&utm_medium=rss&utm_campaign=march-madness-which-pundit-had-the-opening-weekend-bracket">March Madness: Which pundit had the best opening weekend Bracket?</a></div>
+      <p>
+        March 26, 2013 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+        <li>
+      <div class="post_title"><a href="http://blog.pundittracker.com/best-pundit-of-2012/?utm_source=rss&utm_medium=rss&utm_campaign=best-pundit-of-2012">The Best Pundit of 2012</a></div>
+      <p>
+        December 20, 2012 | <a href="http://blog.pundittracker.com/?tag=Sports">SPORTS</a>
+      </p>
+    </li>
+      </ul>
+</div><!--end of block-->
+";

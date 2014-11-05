@@ -1,0 +1,5 @@
+<?php
+// $output = shell_exec('/home/pundittr/public_html/app/Console/cake PunditScore');
+$output = shell_exec('./home/pundittr/public_html/app/Console/cake');
+echo "<pre>$output</pre>";
+?>
